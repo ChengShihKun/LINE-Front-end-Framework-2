@@ -4,7 +4,7 @@ Author :
 update :
 - https://github.com/keezxc1223/
 */
-var liffId = "1657024923-2r46WKKN";
+var liffId = "2000421497-X3qaQeZ7";
 var params = location.search.substring(1);
 var url = window.location.href;
 if (params) {
