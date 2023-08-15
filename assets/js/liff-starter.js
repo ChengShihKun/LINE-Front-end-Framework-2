@@ -265,7 +265,7 @@ function sendLiffMessage() {
                         aspectMode: "cover",
                         action: {
                             type: "uri",
-                            uri: "line://app/1657024923-2r46WKKN?auto=yes&type=image&downloadUrl=" + profile.pictureUrl + "&previewUrl=" + profile.pictureUrl
+                            uri: "line://app/2000421497-X3qaQeZ7?auto=yes&type=image&downloadUrl=" + profile.pictureUrl + "&previewUrl=" + profile.pictureUrl
                         }
                     },
                     body: {
@@ -317,7 +317,7 @@ function sendLiffMessage() {
                                 action: {
                                     type: "uri",
                                     label: "Profile",
-                                    uri: "line://app/1657024923-2r46WKKN?type=profile"
+                                    uri: "line://app/2000421497-X3qaQeZ7?type=profile"
                                 },
                                 flex: 2
                             },
